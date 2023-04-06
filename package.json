@@ -1,0 +1,24 @@
+{
+  "name": "node-1st",
+  "version": "1.0.0",
+  "description": "nodejs 1st one",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NhungTranPY/NODE-1ST.git"
+  },
+  "author": "Nina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NhungTranPY/NODE-1ST/issues"
+  },
+  "homepage": "https://github.com/NhungTranPY/NODE-1ST#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
